@@ -1,0 +1,28 @@
+h1{
+	padding: 10px 10px 0px 10px;
+	margin: 10px 50px 0px 10px;
+} 
+
+hr{
+	border-bottom: 2px solid black;
+	width: 170px;
+	margin: 0px 0px 0px 20px;
+}
+
+.image{
+	position:relative;
+	margin:20px;
+}
+
+h5{ /* Características de la línea o borde debajo del título */
+	position: absolute;
+	top: 150px;
+	left: 100px;
+	width: 100%;
+	color:#E8E4E8;
+}
+
+div{
+	margin: 0px 0px;
+	display: inline-block;
+}
